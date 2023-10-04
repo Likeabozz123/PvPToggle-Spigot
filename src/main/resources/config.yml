@@ -1,0 +1,5 @@
+# PvPToggle Config
+
+players:
+  player1:
+    enabled: false

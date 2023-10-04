@@ -1,0 +1,9 @@
+name: PvPToggle
+version: '${project.version}'
+main: xyz.gamars.PvPToggle
+api-version: 1.19
+commands:
+  pvptoggle:
+    description: Toggle PvP
+    usage: /pvptoggle
+    aliases: [pvptog, togglepvp, togpvp, ppt]
